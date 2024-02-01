@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MedAliRekik
+- 👋 Hi, I’m @AliRekik
 - 👨‍💻 I'm software engineer
 - 👀 I'm interested in all new technologies
 - 🌱 II'm currently learning how to be a good project manager
