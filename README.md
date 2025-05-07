@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @AliRekik
-- 👨‍💻 I'm software engineer
-- 👀 I'm interested in all new technologies
-- 🌱 II'm currently learning how to be a good project manager
+👋 Hello, I’m Ali Rekik
+👨‍💻 I'm a Full-Stack Software Engineer
 
+🚀 Passionate about new technologies and continuous learning
 
-MedAliRekik/Daly is a ✨ young full stack developer engineer ✨, he has participated in quite a few European projects in several sectors such as IOT, smart home with the Rehau client who has an application called NEA SMART 2.0 (in the Play Store and Apple Store) it is an application for the management of smart homes such as temperature, air conditioning, heating, and statistics ... etc.
-As well as he participated in a project related to the management of electricity, such as the collection of data and the analysis in order to visualize dashboards which help decision-making for managers of large electricity companies like 🏢 coreso.
-He is interested in several technologies such as the spring boot framework, nodeJs, angular Js, anglar and DevOps and he is able to manage the integration and deployment of web and mobile applications.
+📈 Currently improving my skills in project management and team leadership
 
+🌍 I’ve contributed to several European tech projects in various domains
+
+💼 About Me
+I’m a full-stack developer with a strong background in web and mobile development. I’ve been involved in several innovative projects, particularly in the IoT, banking, and energy sectors:
+
+🏠 NEA SMART 2.0 — A smart home management app (available on Play Store and App Store) developed for the Rehau client. It allows users to control heating, air conditioning, and track environmental stats in real-time.
+
+⚡ Coreso — Contributed to an energy management platform to collect, process, and visualize electricity data, supporting strategic decision-making for energy managers.
+
+🏦 Oney Bank — Participated in the development of a batch export system for conversation analytics. The solution included multi-step processing (data collection, formatting, file generation) with robust architecture design (Factory Pattern, sequencing, and task parallelism). I also implemented log management and ensured data persistence between steps.
+
+🛠️ Tech Stack
+Languages & Frameworks: Java (Spring Boot, Spring Batch), JavaScript/TypeScript (Angular, Node.js)
+
+DevOps: Docker, GitLab CI/CD, Maven
+
+Databases & APIs: MongoDB, PostgreSQL, REST APIs
+
+Methodologies: Agile, Scrum, Software Craftsmanship
