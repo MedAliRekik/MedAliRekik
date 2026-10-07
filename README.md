@@ -1,52 +1,65 @@
-👋 Hello, I’m Ali Rekik  
-💻 Full-Stack & Mobile Software Engineer (Java / Angular / Flutter)
+# Ali Rekik
 
-I’m a full-stack engineer with 5+ years of experience building robust, secure and scalable applications in banking, energy, IoT and mobile.
+### Full-Stack Developer · Java · Spring Boot · Angular
 
-I work end-to-end on projects: from requirements analysis and architecture design to implementation, CI/CD, monitoring and production support. I’m particularly comfortable with Java/Spring Boot on the back-end and Angular or Flutter on the front.
+Based in Lille, France, with 5+ years of experience building business applications across insurance, banking, energy and IoT.
 
----
+I work across the delivery lifecycle: understanding business requirements, developing REST APIs and user interfaces, testing, CI/CD and production support. My main focus is Java/Spring Boot and Angular, with particular interests in maintainability, batch processing and application reliability.
 
-### 💼 What I’ve worked on
+[Portfolio](https://medalirekik.github.io/site-vitrine/) · [Email](mailto:med.ali.rekik@gmail.com)
 
-- 🏦 **Banking – Oney Bank**  
-  Designed and developed a Spring Batch data pipeline and export system for contact-center analytics: REST data ingestion, complex business rules, file generation (Factory Pattern), performance tuning, logging and technical documentation.
+## Core skills
 
-- 🏠 **IoT – REHAU / Nea Smart 2.0**  
-  Contributed to a smart heating & AC management app (available on the stores), working on microservices architecture, MQTT-based IoT communication, security (OAuth2), statistics and real-time monitoring.
+| Area | Technologies & practices |
+| --- | --- |
+| Backend | Java 8 / 17 / 21, Spring Boot, Spring Batch, Spring Data, Spring Security, REST APIs |
+| Frontend | Angular, including Angular 20 migrations, TypeScript, NgRx, HTML, CSS |
+| Data | PostgreSQL, MySQL, MongoDB |
+| Testing & quality | JUnit 5, Mockito, SonarQube, code reviews |
+| Delivery & tooling | Git, Maven, Jenkins, GitLab CI/CD, Docker, Swagger/OpenAPI, Postman |
 
-- ⚡ **Energy – CORESO**  
-  Back-end development for a strategic European energy coordination platform: microservices with Spring Boot, integration flows with Apache Camel, PostgreSQL, REST APIs and Agile collaboration with business teams.
+Additional experience with Flutter/Dart, OAuth2, Kafka and MQTT.
 
-- 🔐 **Mobile & Security – OnlyU (Goweb)**  
-  Design and development of a secure secret-sharing mobile app with Flutter (MVC, Riverpod) and a modular .NET / REST backend. Implemented OAuth2/JWT authentication, Dockerized services and automated CI/CD with GitLab.
+## Selected projects
 
----
+Personal projects and proofs of concept exploring practical engineering problems.
 
-### 🛠 Tech Stack
+### PDF Signature
 
-- **Back-end:**  
-  Java (8, 17, 21), Spring Boot, Spring Data, Spring Batch, Spring Security, REST APIs, microservices
+A document workflow for uploading a PDF, positioning a visual signature with drag-and-drop, and downloading the resulting document.
 
-- **Front-end & Mobile:**  
-  Angular (AngularJS → 16), TypeScript, HTML/CSS, Flutter / Dart
+- **Backend:** Java 21, Spring Boot and Apache PDFBox, with input validation and centralized error handling.
+- **Frontend:** Angular, NgRx and Angular Material, with a guided workflow and PDF preview.
+- **Scope:** visual signature placement; cryptographic digital signing is a separate planned capability.
 
-- **Databases & Messaging:**  
-  PostgreSQL, MySQL, MongoDB, Firebase, ElasticSearch, Kafka, MQTT
+[Backend repository](https://github.com/MedAliRekik/pdf-signature-backend) · [Frontend repository](https://github.com/MedAliRekik/pdf-signature-frontend)
 
-- **DevOps & Tools:**  
-  Docker, GitLab CI/CD, Jenkins, Maven, SonarQube, Keycloak, NGINX, ELK
+### Spring Batch Optimizer
 
-- **Quality & Methods:**  
-  JUnit, Mockito, Postman, Swagger/OpenAPI, code reviews, TDD, Agile (Scrum, Kanban, SAFe)
+A Spring Batch demonstration that processes conversation records and exports timestamped text files by conversation type.
 
----
+**Focus:** batch configuration, processing and output organization.  
+**Stack:** Java 17, Spring Boot, Spring Batch, H2 and Maven.
 
-### 🚀 What I care about
+[Explore the repository](https://github.com/MedAliRekik/spring-batch-optimizer)
 
-- Clean, maintainable code (SOLID, clear architecture, documentation)
-- Performance and reliability (batch optimization, observability, monitoring)
-- Sharing knowledge, collaborating in agile teams, and continuously learning new tools and practices
+### Spring Boot Observability
 
-You can check my portfolio here:  
-🔗 https://medalirekik.github.io/site-vitrine/
+A proof of concept for monitoring a Spring Boot API with application and JVM metrics.
+
+**Focus:** request latency, custom metrics and memory monitoring.  
+**Stack:** Java 21, Spring Boot Actuator, Micrometer, Prometheus, Grafana and Docker Compose.
+
+[Explore the repository](https://github.com/MedAliRekik/springboot-observability-grafana-prometheus-poc)
+
+## Professional experience
+
+- **Insurance:** developing Spring Boot and Angular business applications, implementing business rules, managing state with NgRx, and contributing to framework migrations and regression fixes.
+- **Banking:** building Spring Batch data pipelines and exports, integrating REST data sources, and improving processing performance and logging.
+- **IoT:** contributing to connected heating applications, Spring-based services, OAuth2 integration and MQTT communication.
+- **Energy:** developing backend services and integration flows for an energy coordination platform.
+- **Mobile:** developing Flutter applications and working on authentication and secure data-sharing workflows.
+
+## How I work
+
+I value clear architecture, readable code, meaningful tests and documentation that helps others run and maintain a project. I enjoy collaborating with product and business teams to turn requirements into dependable software.
